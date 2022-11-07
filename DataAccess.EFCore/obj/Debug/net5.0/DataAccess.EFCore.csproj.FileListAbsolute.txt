@@ -1,0 +1,5 @@
+C:\Users\HP\MamitoProject\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.csproj.AssemblyReference.cache
+C:\Users\HP\MamitoProject\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\MamitoProject\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\HP\MamitoProject\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\HP\MamitoProject\DataAccess.EFCore\obj\Debug\net5.0\DataAccess.EFCore.csproj.CoreCompileInputs.cache
